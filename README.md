@@ -1,3 +1,6 @@
+# Getting Started with Docker Handout
+https://docs.google.com/document/d/1sG1Jpr89SI3w_NSMukFLLJ8zFPvqGKkWZFm5DOYKd84/edit?usp=sharing
+
 # Getting Started with Docker
 
 Official repo for Getting Started with Docker video training course by [@nigelpoulton](https://twitter.com/nigelpoulton)
