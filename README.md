@@ -1,4 +1,4 @@
-# Getting Started with Docker Handout
+# Docker Quickstart
 https://docs.google.com/document/d/1sG1Jpr89SI3w_NSMukFLLJ8zFPvqGKkWZFm5DOYKd84/edit?usp=sharing
 
 # Getting Started with Docker
